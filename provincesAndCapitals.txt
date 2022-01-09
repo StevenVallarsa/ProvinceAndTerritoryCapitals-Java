@@ -1,0 +1,10 @@
+Alberta::Edmonton
+British Columbia::Victoria
+Manitoba::Winnipeg
+New Brunswick::Fredericton
+Newfoundland::St John
+Nova Scotia::Halifax
+Ontario::Toronto
+Prince Edward Island::Charlottetown
+Quebec::Quebec City
+Saskatchewan::Regina
