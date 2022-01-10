@@ -1,10 +1,13 @@
-Alberta::Edmonton
 British Columbia::Victoria
-Manitoba::Winnipeg
-New Brunswick::Fredericton
-Newfoundland::St John
-Nova Scotia::Halifax
-Ontario::Toronto
-Prince Edward Island::Charlottetown
-Quebec::Quebec City
+Yukon::Whitehorse
+Alberta::Edmonton
 Saskatchewan::Regina
+Northwest Territories::Yellowknife
+Manitoba::Winnipeg
+Nunavut::Iqaluit
+Ontario::Toronto
+Quebec::Quebec City
+New Brunswick::Fredericton
+Nova Scotia::Halifax
+Prince Edward Island::Charlottetown
+Newfoundland::St. John's
